@@ -1,0 +1,73 @@
+.icon {
+   display: inline-flex;
+   width: 24px;
+   height: 24px;
+   background-size: contain;
+   background-repeat: round;
+   vertical-align: middle;
+}
+
+.svg {
+   display: inline-flex;
+   width: 24px;
+   height: 24px;
+}
+
+.icon.bg-white {background-color: #ffffff;}
+
+.link.active .icon {color: #ffffff !important;}
+.link.active .svg {color: #ffffff;}
+
+.icon.x14, .svg.x14 { width: 14px; height: 14px; }
+.icon.x16, .svg.x16 { width: 16px; height: 16px; }
+.icon.x18, .svg.x18 { width: 18px; height: 18px; }
+.icon.x20, .svg.x20 { width: 20px; height: 20px; }
+.icon.x24, .svg.x24 { width: 24px; height: 24px; }
+.icon.x25, .svg.x25 { width: 25px; height: 25px; }
+.icon.x28, .svg.x28 { width: 28px; height: 28px; }
+.icon.x30, .svg.x30 { width: 30px; height: 30px; }
+.icon.x32, .svg.x32 { width: 32px; height: 32px; }
+.icon.x34, .svg.x34 { width: 34px; height: 34px; }
+.icon.x36, .svg.x36 { width: 36px; height: 36px; }
+.icon.x38, .svg.x38 { width: 38px; height: 38px; }
+.icon.x40, .svg.x40 { width: 40px; height: 40px; }
+.icon.x44, .svg.x44 { width: 44px; height: 44px; }
+.icon.x48, .svg.x48 { width: 48px; height: 48px; }
+.icon.x50, .svg.x50 { width: 50px; height: 50px; }
+.icon.x54, .svg.x54 { width: 54px; height: 54px; }
+.icon.x60, .svg.x60 { width: 60px; height: 60px; }
+.icon.x65, .svg.x65 { width: 65px; height: 65px; }
+.icon.x70, .svg.x70 { width: 70px; height: 70px; }
+.icon.x74, .svg.x74 { width: 74px; height: 74px; }
+
+.i-card {background-image: url('../icons/menu/card.svg');}
+.i-friends {background-image: url('../icons/menu/friends.svg');}
+.i-tasks {background-image: url('../icons/menu/tasks.svg');}
+.i-game {background-image: url('../icons/menu/game.svg');}
+.i-home {background-image: url('../icons/menu/home.svg');}
+.i-centa {background-image: url('../icons/menu/centa.svg');}
+.i-top {background-image: url('../icons/menu/top.svg');}
+
+.i-ava1 {background-image: url('../images/ava/1.webp');}
+
+
+
+.i-binance {background-image: url('../icons/wallet/binance.webp');}
+.i-bybit {background-image: url('../icons/wallet/bybit.webp');}
+.i-bitget {background-image: url('../icons/wallet/bitget.webp');}
+.i-ton {background-image: url('../icons/wallet/ton.webp');}
+.i-mex {background-image: url('../icons/wallet/mex.webp');}
+.i-trust {background-image: url('../icons/wallet/trust.webp');}
+.i-okx {background-image: url('../icons/wallet/okx.webp');}
+.i-kucoin {background-image: url('../icons/wallet/kucoin.webp');}
+.i-gate {background-image: url('../icons/wallet/gate.webp');}
+
+/* .i-telegram {background-image: url('../icons/social/telegram.webp');}
+.i-discord {background-image: url('../icons/social/discord.webp');}
+.i-twitter {background-image: url('../icons/social/twitter.webp');}
+.i-tiktok {background-image: url('../icons/social/tiktok.webp');}
+.i-twitch {background-image: url('../icons/social/twitch.webp');}
+.i-youtube {background-image: url('../icons/social/youtube.webp');}
+.i-foppa {background-image: url('../icons/social/foppa.webp');}
+.i-mirrion {background-image: url('../icons/social/mirrion.webp');}
+.i-beyond {background-image: url('../icons/social/beyond.webp');} */
